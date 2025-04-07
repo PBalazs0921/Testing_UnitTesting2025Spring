@@ -1,0 +1,94 @@
+# Build results
+[Bb]in/
+[Oo]bj/
+artifacts/
+project.lock.json
+project.fragment.lock.json
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.sln.docstates
+
+# Visual Studio for Mac
+.DS_Store
+*.pidb
+*.pdb
+*.mdb
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# ASP.NET Core
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# Test results
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# Logs
+*.log
+logs/
+
+# Local databases
+*.db
+*.db-shm
+*.db-wal
+
+# NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+.nuget/
+packages/
+project.assets.json
+PackageReference.props
+*.csproj.nuget.*
+
+# Entity Framework
+Migrations/
+
+# T4 templates
+*.tt
+*.ttinclude
+*.tt~ 
+
+# ReSharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Backups and temp files
+*.bak
+*.tmp
+*.temp
+*.cache
+
+# System files
+Thumbs.db
+ehthumbs.db
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+desktop.ini
+
+# Others
+*.orig
+*.diff
+*.patch
+*.swp
+
+# Rider / dotCover
+*.dotCover
+
+# Local tool settings
+.toolstarget

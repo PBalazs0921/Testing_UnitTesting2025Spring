@@ -1,0 +1,5 @@
+- a következő osztályokat kell lefedni tesztekkel, amennyire precízen csak tudjátok: Account és AccountActivityService
+	- órán - idő hiányában - nem fedhettünk le mindent tesztekkel, ne az szolgáljon a teljesség mércéjének :)
+- ami a ThirdParty mappában van, azon módosítani nem lehet
+- segítségetekre lesznek a különböző "Testing Double"-ök (Fake, Stub, stb)
+- End Result alapján ne felejtsük el tesztelni "value-based" mellett a "State-based" és az "Interaction" eseteket sem.
